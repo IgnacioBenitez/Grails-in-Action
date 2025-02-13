@@ -4,7 +4,7 @@
 
 </head>
 <body>
-    <div id "quote">
+    <div id = "quote">
         <q>${content}</q>
         <p>${author}</p>
     </div>
